@@ -86,6 +86,12 @@ void UndeadCore_skip_deathknight_HandleSkip(Player* player)
     case RACE_UNDEAD_PLAYER:
         specialSurpriseQuestId = 12750;
         break;
+    case RACE_WORGEN:
+        specialSurpriseQuestId = 28649;
+        break;
+    case RACE_GOBLIN:
+        specialSurpriseQuestId = 28650;
+        break;
     }
 
     STARTER_QUESTS[22] = specialSurpriseQuestId;
