@@ -1,7 +1,7 @@
 /*
  *MIT License
  *
- *Copyright (c) 2022 Azerothcore
+ *Copyright (c) 2025 UndeadCore
  *
  *Permission is hereby granted, free of charge, to any person obtaining a copy
  *of this software and associated documentation files (the "Software"), to deal
@@ -26,7 +26,7 @@
  * Rewritten for TC 335 By Single Player Project Developer MDic
  * Original Concept from conanhun513
  * Assistance and Review by JinnaiX
- * Modified for Azerothcore
+ * Modified for UndeadCore
  */
 
 void AddSkipDKScripts();
